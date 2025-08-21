@@ -4,7 +4,7 @@
 
 | # | Capítulos |
 |---|-----------|
-| 01 | [FUNDAMENTOS DE LOS LLMs](./Contenido/01_Fundamentos_de_los_LLMs/Intro.md) |
+| 01 | [FUNDAMENTOS DE LOS LLMS](./Contenido/01_Fundamentos_de_los_LLMs/Intro.md) |
 
 <!-- 
 1. Fundamentos de los LLMs
