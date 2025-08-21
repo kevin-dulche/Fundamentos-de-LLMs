@@ -49,3 +49,5 @@ Inicialmente, estos modelos solo autocompletaban textos, no sostenían conversac
 
 OpenAI, por ejemplo, empleó a miles de personas para enseñar al modelo cómo realizar conversaciones naturales y eficaces.
 Este entrenamiento les permite adaptarse para distintas respuestas, no siempre eligiendo la opción más probable, impulsando la creatividad.
+
+[REGRESAR](../01_Fundamentos_de_los_LLMs/Intro.md)
