@@ -9,3 +9,4 @@
 | 3 | [TOKENIZACION, VECTORIZACION Y EMBEDDINGS EN LLMS](03_Tokenizacion_vectorizacion_y_embeddings.md) |
 | 4 | [FUNCIONAMIENTO BASICO DE REDES NEURONALES MULTICAPA](04_Funcionamiento_basico_de_redes_neuronales_multicapa.md) |
 | 5 | [ARQUITECTURA GPT-2 Y MECANISMO DE ATENCION EN TRANSFORMADORES](05_Arquitectura_GPT-2_y_mecanismo_de_atención_en_transformadores.md) |
+| 6 | [FUNDAMENTOS DE PYTORCH PARA MODELOS DE MACHINE LEARNING](06_Fundamentos%20de%20PyTorch.md) |
