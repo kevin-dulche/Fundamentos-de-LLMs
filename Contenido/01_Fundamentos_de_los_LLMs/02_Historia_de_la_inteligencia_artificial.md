@@ -35,6 +35,4 @@ Hoy en día, el impacto de la inteligencia artificial se evidencia diariamente, 
 
 La rápida escalabilidad de estos modelos plantea inquietudes en torno al acercamiento hacia la Inteligencia Artificial general (Artificial General Intelligence, AGI), y cómo estos progresos continuarán transformando múltiples aspectos del conocimiento y las interacciones humanas.
 
-¿Cómo crees que impactarán estos desarrollos tecnológicos en nuestro futuro próximo? Deja tus reflexiones y preguntas en los comentarios.
-
 [REGRESAR](../01_Fundamentos_de_los_LLMs/Intro.md)

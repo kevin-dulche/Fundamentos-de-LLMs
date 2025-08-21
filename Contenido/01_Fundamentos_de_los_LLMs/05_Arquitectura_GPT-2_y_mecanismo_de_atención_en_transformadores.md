@@ -59,6 +59,6 @@ Tras el mecanismo de atención, GPT-2 integra componentes comunes del machine y 
 Estos elementos complementarios están diseñados para mejorar la generalización y optimizar el comportamiento del modelo.
 
 ## ¿Cómo continuar profundizando en GPT-2 y sus bases teóricas?
-Para quienes desean profundizar, se recomienda explorar el documento original (paper) de GPT-2 proporcionado por OpenAI. Adicionalmente, los fundamentos teóricos sobre redes neuronales profundas, normalización y clasificadores se encuentran ampliamente documentados en los recursos adicionales brindados durante el curso.
+Para quienes desean profundizar, se recomienda explorar el documento original (paper) de GPT-2 proporcionado por OpenAI.
 
 [REGRESAR](../01_Fundamentos_de_los_LLMs/Intro.md)
