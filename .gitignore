@@ -1,2 +1,3 @@
 venv/
 gpt2-pytorch_model.bin
+gpt2-pytorch_model_rope.bin
