@@ -32,3 +32,7 @@ Una vez construido el GPT-2, verifica:
 * Uso de funciones auxiliares para duplicar módulos y realizar operaciones específicas como split heads y merge heads.
 
 Puedes probar tu modelo dando textos básicos en inglés al tokenizer. El modelo generará nuevos tokens próximos, validando así tu implementación. Ten presente que GPT-2 fue entrenado para un contexto máximo de mil veinticuatro tokens y opera principalmente en inglés.
+
+[CODIGO](./Codigos/01_GPT-2.ipynb)
+
+[REGRESAR](../02_Componentes_Avanzados_de_los_LLMs/Intro.md)

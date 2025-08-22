@@ -39,3 +39,7 @@ k = self.rotate.rotate_queries_or_keys(k)
 3. **Actualizar pesos del modelo**: Usa un archivo de pesos entrenado con Rope desde la fase inicial del modelo, garantizando compatibilidad y efectividad del método implementado.
 
 Finalizar estos pasos permite integrar Rope eficazmente, incrementando significativamente el rendimiento de tu modelo GPT-2.
+
+[CODIGO](./Codigos/03_RoPE_GPT-2.ipynb)
+
+[REGRESAR](../02_Componentes_Avanzados_de_los_LLMs/Intro.md)

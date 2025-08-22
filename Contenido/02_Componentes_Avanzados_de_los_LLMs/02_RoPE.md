@@ -40,3 +40,5 @@ Para reducir la carga computacional, RoPE no multiplica directamente grandes mat
 Integrar RoPE facilita que el modelo entienda con exactitud la distancia entre tokens, aumentando la calidad y velocidad del entrenamiento. La reducción rápida de la pérdida durante el entrenamiento con RoPE es un claro indicador de su eficiencia y de cómo favorece el aprendizaje más ágil del modelo.
 
 Además, ayuda al modelo a discernir qué tan próximos están los tokens en la secuencia a través del producto punto entre vectores, facilitando interpretaciones más exactas durante el entrenamiento y la inferencia.
+
+[REGRESAR](../02_Componentes_Avanzados_de_los_LLMs/Intro.md)
