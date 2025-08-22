@@ -10,3 +10,4 @@
 | 4 | [LEYES DE ESCALADO Y MODELOS MULTIMODALES EN INTELIGENCIA ARTIFICIAL](./04_Leyes_de_escalado_y_modelos_multimodales.md) |
 | 5 | [COMO SE ENTRENA UN MODELO DE LENGUAJE GRANDE (LLM) PASO A PASO](./05_Cómo_se_entrena_un_LLM.md) |
 | 6 | [MIXTURE OF EXPERTS: ARQUITECTURA EFICIENTE PARA MODELOS DE IA](./06_Mixture_of_Experts_arquitectura_eficiente_para_modelos_de_IA.md) |
+| 7 | [REQUISITOS DE HARDWARE PARA EJECUTAR MODELOS LLM EN TU COMPUTADORA](./07_Requisitos_de_hardware_para_ejecutar_modelos%20LLM.md) |
